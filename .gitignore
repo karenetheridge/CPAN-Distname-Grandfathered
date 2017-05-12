@@ -1,0 +1,6 @@
+/.ackrc
+/.build/
+!/.gitignore
+/.latest
+/CPAN-Distname-Grandfathered-*/
+/CPAN-Distname-Grandfathered-*.tar.gz
